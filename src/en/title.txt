@@ -1,0 +1,21 @@
+---
+title: "Whitepaper: Applying Business Agility in Unionised Environments"
+subtitle: An exploration of business agility principles & practices within a unionised workforce
+author:
+  - Christopher Ruz
+  - Dahm M. Hongchai
+  - Isabelle Kluger
+  - Jana von Wulfen
+  - Michael Derwin
+  - Stephan Kahl
+dateCopyrighted: 2020
+subject:
+  - Ownership & Accountability
+  - Partners
+  - People Management
+  - Research
+  - Workforce
+language: en-EN
+rights: Creative Commons By Share Alike 4.0
+license: cc-by-sa 4.0
+...
