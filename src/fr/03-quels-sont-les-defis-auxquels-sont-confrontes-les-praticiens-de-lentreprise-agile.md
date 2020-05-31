@@ -90,7 +90,168 @@ tels changements, les responsables de la mise en œuvre de l'Entreprise Agile et
 des experts sont en mesure de combler ce vide.
 
 Si les organisations syndicales sont prêtes à faire le premier pas et à modifier
-leurs propres fonctionnements et leurs procédures par petites touches pour devenir
-plus flexibles, elles reconnaîtront comment la souplesse inhérente à
+leurs propres fonctionnements et leurs procédures par petites touches pour
+devenir plus flexibles, elles reconnaîtront comment la souplesse inhérente à
 l'Entreprise Agile peut être étendue progressivement à une organisation plus
 grande, sans entrer en conflit avec les cadres juridiques préexistants.
+
+### 3.3. Rémunération des employés polyvalents
+
+Une troisième cause de friction est le casse-tête de la rémunération équitable
+des employés polyvalents, en particulier lorsque ces employés occupent un large
+éventail de fonctions. En bref : si un employé apporte des compétences multiples
+à son entreprise, le rémunérez-vous différemment pour les différentes heures
+qu'il passe à utiliser chaque compétence ? Un employé se définit-il par la
+compétence la plus complexe ou la plus exigeante qu'il apporte à l'organisation,
+ou la moins complexe ?
+
+On trouve des exemples de ce dilemme de rémunération dans de nombreux secteurs.
+Par exemple : lorsqu'un pilote commercial aide à nettoyer l'avion (comme c'était
+le cas au début avec Southwest Airlines), est-il toujours rémunéré en tant que
+pilote pendant ces heures ? S'agit-il d'un pilote qui nettoie, ou d'un agent
+d'entretien qui pilote ? Si un chauffeur de bus gère également le dépôt le soir,
+son salaire augmente-t-il en fonction de ses nouvelles responsabilités ? Si un
+membre d'une équipe informatique se retrouve chef d'équipe temporaire en cas de
+problème de santé de son chef d'équipe, son salaire doit-il augmenter
+temporairement en fonction de ses nouvelles responsabilités, et doit-il rester à
+ce niveau supérieur par la suite, compte tenu des compétences en management
+qu'il a acquises ?
+
+Il n'y a pas de réponses simples à ces questions. L'Entreprise Agile repose sur
+des principes de réussite et de reconnaissance individuelles, notamment le
+principe selon lequel les personnes motivées doivent bénéficier du soutien et de
+la confiance dont elles ont besoin pour accomplir leur travail, et que les
+meilleures architectures et conceptions nécessaires à la réussite émergent
+d'équipes auto-organisées. Il en résulte que les employés travaillant dans le
+cadre de ces modèles devraient être libres de négocier leur propre rémunération
+équitable. Les salaires peuvent donc augmenter et diminuer de manière dynamique,
+en fonction de l'évolution constante de leurs rôles, de leurs compétences et de
+l'utilisation de ces compétences.
+
+Si cela vous semble complexe, considérez ceci : il existe déjà des systèmes qui
+comblent le fossé entre les régimes de rémunération syndiqués "taille unique" et
+la flexibilité des régimes de rémunération recommandés pour l'Entreprise Agile.
+Par exemple, certaines divisions du service public australien proposent des
+échelles de rémunération pour différents rôles, ce qui permet à un individu de
+négocier des ajustements équitables de sa rémunération en fonction de ses
+compétences, de ses responsabilités et de son ancienneté.
+
+### 3.4. Les syndicats sont perçus comme obstacles plutôt que comme facilitateurs
+
+Lorsqu'il s'agit des droits des travailleurs, les organisations syndicales sont
+efficaces. Ils contribuent à créer et à maintenir des relations de travail
+saines entre les employés et les employeurs. Mais lorsqu'il s'agit de mettre en
+œuvre l'Entreprise Agile, les syndicats peuvent être considérés comme des
+obstacles, non pas par malveillance, mais par résistance au changement et par
+crainte de ne pas être pertinents.
+
+En Allemagne, par exemple, les comités d'entreprise ont développé des
+hiérarchies complexes et imbriquées allant des organes syndicaux nationaux aux
+comités régionaux, en passant par les petits comités d'entreprise au sein de
+chaque organisation distincte. Chacun de ces groupes a ses propres objectifs,
+ses propres intérêts et ses propres procédures bien établies. Comme mentionné
+précédemment, les transformations liées à l'Entreprise Agile ne menacent pas les
+rôles et les droits des travailleurs individuellement, mais elles peuvent être
+considérées comme une menace pour le statu quo en encourageant les individus à
+contourner les structures traditionnelles de négociation syndicale, réduisant
+ainsi l'influence globale du syndicat. La hiérarchie établie des comités
+d'entreprise ne s'accorde pas avec la structure adaptative et transversale qui
+accompagne l'Entreprise Agile et, en tant que telle, elle fait obstacle au
+changement.
+
+Cette obstruction peut se manifester par un refus catégorique d'examiner les
+avantages de l'Entreprise Agile. Elle peut également être passive-agressive. Par
+exemple, les syndicats existants pourraient accepter une mise en œuvre
+progressive des valeurs agiles, tout en insistant pour que cette même mise en
+œuvre suive des règles et des réglementations créées à des époques et dans des
+contextes très différents.
+
+En fin de compte, les meilleurs moyens d'entretenir de bonnes relations avec les
+syndicats et de mettre en œuvre sans heurts les procédés de l'Entreprise Agile
+sont l'honnêteté, la communication et la consultation.
+
+### 3.5. Les conditions légales
+
+Tout comme les obligations légales et les compétences des organisations
+syndicales qui diffèrent selon les pays, les régions et les secteurs d'activité,
+les cadres juridiques relatifs aux employés diffèrent également. Ainsi, la mise
+en œuvre de l'Entreprise Agile doit être adaptée pour répondre à des
+législations spécifiques.
+
+Cela signifie que la mise en œuvre de l'Entreprise Agile ne peut pas être
+précipitée ou aléatoire. Les organisations syndicales agissent souvent en tant
+que co-concepteurs dans la structure des entreprises, et les équipes de
+l'Entreprise Agile doivent comprendre en profondeur les cadres juridiques qui
+les entourent si elles souhaitent assumer des rôles similaires, surtout si les
+responsabilités précédemment attribuées à une organisation syndicale ou à un
+comité d'entreprise sont maintenant partagées entre ces organisations et les
+individus. Il est essentiel que la mise en œuvre de l'Entreprise Agile soit à la
+fois créative et juridiquement sûre, afin de garantir les droits et les
+rémunérations de chaque employé.
+
+Par exemple, les conditions légales qui peuvent être associées aux syndicats et
+aux comités d'entreprise incluent leur participation aux décisions concernant
+les horaires de travail, à la planification des salaires, à la mise en œuvre de
+la réglementation et des équipements liés à la sécurité, à la mise à disposition
+de logements loués aux employés et à l'utilisation de tout dispositif de
+contrôle du comportement ou de la performance, entre autres questions liées au
+lieu de travail. Si les organisations syndicales et la direction ne parviennent
+pas à un accord à l'amiable sur ces points, les organisations syndicales ont le
+droit de demander l'avis d'un conseil d'arbitrage externe, qui prendra une
+décision finale sur la question.
+
+Ainsi, dans les cas où une organisation syndicale existante est engagée dans la
+mise en œuvre de l'Entreprise Agile, son rôle consiste notamment à s'assurer que
+la transformation est conforme à toutes les normes juridiques existantes. Il lui
+faut également veiller à respecter toutes les exigences légales concernant les
+relations existantes entre employés et employeurs, et à maintenir la
+représentation des employés dans les conseils d'administration et les conseils
+syndicaux.
+
+Les principes de l'Entreprise Agile renforcent et clarifient la voix des
+employés. Il est essentiel que les représentants syndicaux comprennent comment
+ces principes sont conformes aux lois en vigueur en matière de droit du travail,
+afin qu'ils puissent devenir des participants enthousiastes aux transformations
+de l'entreprise.
+
+### ÉTUDE DE CAS - UNE GRANDE ENTREPRISE DE TRANSPORT EUROPÉENNE
+
+Une grande entreprise de transport européenne découvre l'Entreprise Agile.
+Nombre de ses employés ont des idées préconçues sur ce que l'agilité apporte :
+des bureaux en espace ouvert, du travail à distance et un travail d'équipe
+forcé. Une scission s'est formée au sein de l'entreprise. Les jeunes employés
+sont curieux d'en savoir plus sur l'agilité, mais leurs collègues plus âgés se
+sentent laissés pour compte. Ils ont été formés pour recevoir et suivre des
+instructions claires de la direction plutôt que d'être autogérés, et ils
+n'aiment pas avoir l'impression de devoir être constamment disponibles.
+
+La présidente du comité d'entreprise s'occupe des recrutements, des
+licenciements et des problèmes sociaux. Elle est également en contact étroit
+avec les organisations syndicales qui s'occupent de la politique, des programmes
+sociaux, de la réglementation du temps de travail et des rémunérations. Selon
+elle, ces tensions entre les comités d'entreprise et la direction sont dues à un
+manque de confiance envers les intentions positives des employeurs lorsqu'il
+s'agit d'introduire de l'agilité.
+
+C'est pourquoi la plupart des membres du comité d'entreprise ont exigé des
+règles claires auxquelles les dirigeants doivent se conformer. Plusieurs
+directeurs ont tenté d'atténuer ce manque de confiance en impliquant directement
+des représentants syndicaux dans leurs programmes de transformation, mais sans
+succès. Les représentants syndicaux essaient de minimiser leurs relations avec
+la mise en œuvre de l'agilité, car les employés ont commencé à les blâmer
+directement pour la détérioration des conditions de travail. En conséquence, de
+nombreux représentants syndicaux se sont retirés des programmes de
+transformation agile pour s'opposer aux autres initiatives.
+
+Bien que le comité d'entreprise de cette société de transport soit confronté à
+des défis importants, il y a encore de l'espoir pour sa transformation agile
+actuelle. L'éducation sur les manières agiles de travailler et les avantages des
+valeurs et des principes agiles pour les employés peut contribuer à mieux les
+informer sur les processus et les bénéfices de ce nouveau paradigme. La
+transparence des délibérations du conseil contribuera également à établir une
+relation plus authentique et plus rassurante entre les représentants syndicaux
+et les dirigeants, ce qui contribuera à améliorer les conditions de travail des
+employés.
+
+Lisez la suite pour voir comment certaines de ces recommandations peuvent être
+appliquées à d'autres environnements de travail syndiqués.

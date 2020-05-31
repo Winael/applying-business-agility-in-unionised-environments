@@ -8,8 +8,14 @@ author:
   - Jana von Wulfen
   - Michael Derwin
   - Stephan Kahl
-traductor: Vincent Jobard
-date: 2020
+dateCopyrighted: 2020
+subject:
+  - Maîtrise et responsabilité
+  - Partenaires
+  - Gestion des personnes
+  - Recherche
+  - Force de travail
 language: fr-FR
-rights: Creative Commons By Share Alike 4.0
+rights: Creative Commons Paternité et Partage à l'identique 4.0
+license: cc-by-sa 4.0
 ...
