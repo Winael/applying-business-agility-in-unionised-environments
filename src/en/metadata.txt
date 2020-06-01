@@ -1,5 +1,6 @@
 ---
 title: "Whitepaper: Applying Business Agility in Unionised Environments"
+file: white_paper_applying_business_agility_in_unionised_environments_en.epub
 subtitle: An exploration of business agility principles & practices within a unionised workforce
 author:
   - Christopher Ruz

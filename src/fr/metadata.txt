@@ -1,5 +1,6 @@
 ---
 title: "Papier Blanc : Mise en œuvre de l'Entreprise Agile dans les environnements syndiqués"
+file: papier_blanc_mise_en_œuvre_de_lentreprise_agile_dans_les_environnements_syndiques_fr.epub
 subtitle: "Une exploration des principes et pratiques de l'Entreprise Agile au sein d'une main-d'œuvre syndiquée"
 author:
   - Christopher Ruz
