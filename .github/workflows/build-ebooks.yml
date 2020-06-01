@@ -18,4 +18,4 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - run: chmod +x build.sh
-    - run: ./build.sh
+    - run: sh build.sh
