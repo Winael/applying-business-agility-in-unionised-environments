@@ -17,5 +17,4 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-    - run: ls
-    - run: ./build.sh
+    - run: build.sh
