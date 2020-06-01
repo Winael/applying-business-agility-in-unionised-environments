@@ -13,9 +13,8 @@ jobs:
     runs-on: ubuntu-latest
 
     container:
-      image: ubuntu:latest
+      image: pandoc/latex
 
     steps:
     - uses: actions/checkout@v1
-    - run: apt install -y pandoc
     - run: ./build.sh
