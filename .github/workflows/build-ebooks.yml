@@ -1,0 +1,21 @@
+name: Build Ebooks
+
+on:
+  push:
+    branches:
+    - master
+  pull_request:
+    branches:
+    - master
+
+jobs:
+  container-job:
+    runs-on: ubuntu-latest
+
+    container:
+      image: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - run: apt-install -y pandoc
+    - run: ./build.sh
