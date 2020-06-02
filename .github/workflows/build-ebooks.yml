@@ -12,18 +12,24 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    container:
-      image: pandoc/ubuntu:edge
-
     steps:
+    - name: Install dependancies
+      run: sudo apt install pandoc git
     - name: Checkout repository
       uses: actions/checkout@v2
     - name: Made build.sh executable
       run: chmod +x build.sh
     - name: build the ebooks
       run: sh build.sh
-    - name: Upload builds
-      uses: actions/upload-artifact@v2
+    - name: Commit files
+      run: |
+        echo ${{ github.ref }}
+        git add build/
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "CI: Automated build push" -a | exit 0
+    - name: Push changes
+      if: github.ref == 'refs/heads/master'
+      uses: ad-m/github-push-action@master
       with:
-        name: my-artifact
-        path: build/
+        github_token: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,13 @@
+# action.yml
+
+name: 'Build Ebooks'
+description: 'Build the ebooks'
+inputs:
+  source: 'sources of ebooks'
+  required: true
+  default: 'src'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - ${{ inputs.source }}
