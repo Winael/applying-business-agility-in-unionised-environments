@@ -1,4 +1,4 @@
-## Traduction
+## TRADUCTION
 
 **Traduction**
 : Vincent 'Winael' Jobard <[vinzjobard@gmail.com](mailto:vinzjobard@gmail.com)>

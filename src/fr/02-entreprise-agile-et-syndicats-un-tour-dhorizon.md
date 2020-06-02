@@ -1,4 +1,4 @@
-## 02 - AGILITE POUR LES ENTREPRISES & SYNDICATS - UN TOUR D'HORIZON
+## 02 — AGILITE POUR LES ENTREPRISES & SYNDICATS - UN TOUR D'HORIZON
 
 > « Les syndicats et Agile travaillent à des objectifs similaires - la protection et la promotion des travailleurs et des organisations. »
 
