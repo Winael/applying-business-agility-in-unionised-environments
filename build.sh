@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -l
 
 for LANGUAGE in $(ls src/ | grep -v img); do
 
