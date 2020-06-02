@@ -1,0 +1,11 @@
+## 05 — CONCLUSION
+
+> « Il n'est pas nécessaire que le personnel syndiqué craigne l'agilité pour les entreprises. Les principes agiles n'entrent pas en conflit avec les valeurs syndicales ».
+
+Les entreprises et les employés qui ont adopté l'agilité pour les entreprises sont davantage en mesure de s'adapter aux conditions changeantes du marché et aux besoins des clients, mais sa mise en œuvre dans des environnements syndiqués n'est pas pour autant une tâche facile. Les préjugés existants, les idées erronées, les mentalités bien ancrées et les exigences législatives peuvent ralentir, voire bloquer complètement les transformations vers l'agilité pour les entreprises, en particulier dans une organisation fortement syndiquée déjà hostile aux tentatives de rationalisation des effectifs.
+
+L'agilité valorise l'individu avant le processus et encourage l'expérimentation, la réflexion et l'itération plutôt que des règles et des structures rigides. Ces mêmes valeurs et principes s'appliquent aussi bien à la mise en œuvre de l'agilité pour les entreprises qu'au fait de travailler sur des projets dans un environnement agile. En tant que telle, la mise en œuvre peut se faire par étapes, à travers des efforts de collaboration, et s'étendre vers l'extérieur, en passant de petites équipes de test à des effectifs plus importants.
+
+Il n'est pas nécessaire que les travailleurs syndiqués craignent l'agilité pour les entreprises. Ses principes n'entrent pas en conflit avec les valeurs syndicales. Si nous nous habituons à considérer les organisations syndicales comme des alliées et les obstacles comme des opportunités potentielles, ces valeurs et principes trouveront bientôt leur place dans de nouveaux environnements de travail. Les employés auront de nouvelles possibilités de travailler aux côtés de ces organisations et de leurs employeurs pour trouver des solutions mutuellement satisfaisantes. Les organisations syndicales pourront rétablir des liens de confiance solides avec la direction et l'ensemble des collaborateurs.
+
+Nous ne disons pas que ce sera un exercice aisé. Le changement l'est rarement. Mais grâce à la transparence, à la consultation et à une approche itérative, les valeurs et les principes de l'agilité pour les entreprises peuvent renforcer l'autodétermination et l'estime de soi de chaque employé syndiqué.
