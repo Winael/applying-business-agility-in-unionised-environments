@@ -1,4 +1,4 @@
-## 01 - INTRODUCTION
+## 01 — INTRODUCTION
 
 > « L'agilité pour les entreprises est une voie vers la sécurisation du lieu de
 travail, tant pour les employeurs que pour les employés. »
